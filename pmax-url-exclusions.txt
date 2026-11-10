@@ -1,0 +1,42 @@
+# Quy tắc ưu tiên (nếu giao diện hỗ trợ "URL chứa"):
+# URL chứa: -la-gi
+# URL chứa: /kich-thuoc
+# URL chứa: /cach-
+# URL chứa: /mau-
+# Danh sách URL cụ thể (bài thông tin PMax đã tự trỏ tới trong 13/10-09/11):
+https://duyan.vn/bang-ron-la-gi/
+https://duyan.vn/be-demi-la-gi/
+https://duyan.vn/cach-in-2-mat-tren-may-in-1-mat/
+https://duyan.vn/cach-in-2-mat-trong-excel/
+https://duyan.vn/cach-sua-bong-den-led/
+https://duyan.vn/can-mang-la-gi/
+https://duyan.vn/den-led-neon-trang-tri-sang-tao-hai-huoc/
+https://duyan.vn/ep-kim-la-gi/
+https://duyan.vn/formex-la-gi/
+https://duyan.vn/giay-c300-la-gi/
+https://duyan.vn/giay-couche-la-gi/
+https://duyan.vn/giay-ford-la-gi/
+https://duyan.vn/giay-ivory-la-gi/
+https://duyan.vn/giay-xeo-la-gi/
+https://duyan.vn/gsm-la-gi/
+https://duyan.vn/hiflex-la-gi/
+https://duyan.vn/in-lua-la-gi/
+https://duyan.vn/in-pp-la-gi/
+https://duyan.vn/in-uv-la-gi/
+https://duyan.vn/kich-thuoc-a2/
+https://duyan.vn/kich-thuoc-card-visit-thong-dung/
+https://duyan.vn/kich-thuoc-kho-giay/
+https://duyan.vn/mau-menu-nha-hang/
+https://duyan.vn/mau-thiep-chuc-mung-nam-moi/
+https://duyan.vn/mau-thiep-cuoi-dep/
+https://duyan.vn/mau-thiep-moi-su-kien/
+https://duyan.vn/may-in-nhiet-la-gi/
+https://duyan.vn/mica-trong-suot-la-gi-uu-diem-va-ung-dung-cua-tam-mica-trong-suot/
+https://duyan.vn/mockup-la-gi/
+https://duyan.vn/pantone-la-gi/
+https://duyan.vn/posm-la-gi/
+https://duyan.vn/proof-la-gi/
+https://duyan.vn/rgb-la-gi/
+https://duyan.vn/tent-card-la-gi/
+https://duyan.vn/vai-silk-la-gi/
+https://duyan.vn/wobbler-la-gi/
